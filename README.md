@@ -1,2 +1,3 @@
 nginx配置文件/usr/local/nginx/...
+
 redis集群一键执行软件包123.tar.gz
